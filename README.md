@@ -4,7 +4,8 @@
 
 This is the code for this finanace management app project which deals with the finance part of daily life, a solution for those who are not able to manage thier monthly expenditure and unable to invest on a right share market. 
 
-## #Solutionchallenge2020
+## #SOLUTIONCHALLENGE2020
+
 ## Call for Pull Requests
 
 This code compiles and runs, but its far from complete. I'm accepting pull requests, i encourage you to do so, it will be a service to everyone who watches the video. 
